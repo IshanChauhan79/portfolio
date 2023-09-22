@@ -7,7 +7,7 @@ import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <Leva collapsed />
+    <Leva />
     <Canvas
       shadows={true}
       camera={{
